@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-togg-staging-112546-authRole",
+      "UnauthRoleArn": "arn:aws:iam::371953977214:role/amplify-togg-staging-112546-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::371953977214:role/amplify-togg-staging-112546-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-togg-staging-112546-deployment",
+      "UnauthRoleName": "amplify-togg-staging-112546-unauthRole",
+      "StackName": "amplify-togg-staging-112546",
+      "StackId": "arn:aws:cloudformation:us-west-1:371953977214:stack/amplify-togg-staging-112546/85d99610-10c3-11ed-9079-06d9d8fb9077",
+      "AmplifyAppId": "d2ow2tlnqq21si"
+    },
+    "categories": {
+      "auth": {
+        "ToGG": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "resourceName": "s35ee52224",
+  "policyUUID": "5ee52224",
+  "bucketName": "togg-storage-8d22ec3a",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
