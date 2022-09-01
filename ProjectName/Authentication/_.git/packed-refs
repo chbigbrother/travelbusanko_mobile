@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+824e6cf939021976c4f41aff50437aa4837a45f8 refs/remotes/origin/amplify
+dd3af08a6920abaf6960f8b5c9c90ccca113c960 refs/remotes/origin/main
+7d7788e53c5c21f8d8934eda9e4677710a387afb refs/remotes/origin/react-hook-form
+6ef773cd0f0f4e47c96e1a570bfc50cd7eff7550 refs/remotes/origin/ui
