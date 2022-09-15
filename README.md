@@ -3,7 +3,7 @@ Existing tourism content systems provide information using fixed location-based 
 > M. G. Jeong, C. S. Kim, K. H. Rhee, Y. B. Kim, D. H. Kim, A study on the information generating plan of tourist-oriented tourism contents - For the sourthen part of Busan-, Journal of the Korea Society of Disaster Information, Vol. 15, No. 3, 2019.
 
 # create new react-native project
-<pre><code>$ npx react-native init Projectname</code></pre>
+<pre><code>$ npx react-native init Projectname --version 0.68.2</code></pre>
 
 # execute react-native project on emulator
 1. open cmd
