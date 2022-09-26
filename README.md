@@ -13,3 +13,7 @@ Existing tourism content systems provide information using fixed location-based 
 run emulator
 
 ![image](https://user-images.githubusercontent.com/47962204/190329249-a7c0e67b-4a88-4b8a-9be2-110e540e279a.png)
+
+When the newly edited code is not working or Unable to Resolve Module in React Native App error appears,
+<pre><code>$ react-native start --reset-cache</code></pre>
+
